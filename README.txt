@@ -2,7 +2,7 @@
 
 > Sistema web para Cadastro de Funcionários através de Interface responsiva com Bootstrap e Integração com banco de dados (Oracle/PostgreSQL).
 
-https://github.com/marciorbarcellos/cadastro/blob/main/img/Cadastro.gif
+![Cadastro](https://github.com/marciorbarcellos/cadastro/blob/main/img/Cadastro.gif)
 
 <br/>
 
