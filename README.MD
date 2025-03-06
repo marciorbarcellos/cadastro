@@ -26,7 +26,7 @@
 
 🚀 Como executar o projeto
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/cadastro.git`
+1. Clone o repositório: `git@github.com:marciorbarcellos/cadastro.git`
 2. Configure o banco de dados (Oracle ou PostgreSQL)
 3. Execute o backend com Spring Boot
 4. Inicie o front-end Angular
